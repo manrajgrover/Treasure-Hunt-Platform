@@ -3,4 +3,6 @@ Treasure-Hunt-Platform
 
 Platform developed on Php,MySQL,jQuery,CSS and HTML with Facebook Login implemented.
 
-Developed by me during college festival season for Online Competitions.
+Developed by Manraj Singh & Divjot Singh during their college festival season for Online Competitions.
+
+Successfully used for 3 events.
