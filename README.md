@@ -5,4 +5,4 @@ Platform developed on Php,MySQL,jQuery,CSS and HTML with Facebook Login implemen
 
 Developed by Manraj Singh & Divjot Singh during their college festival season for Online Competitions.
 
-Successfully used for 3 events.
+Successfully used for 7 events.
