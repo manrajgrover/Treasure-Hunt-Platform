@@ -1,9 +1,9 @@
 <?php
  include_once 'fbsdk/facebook.php';
  session_start();
- $appId = '601626939930471';
- $secret = 'b153fef5faab56e6e4650722ce344254';
- $returnurl = 'http://nsit-moksha.com/vimukti/share.php';
+ $appId = ''; //Add App ID
+ $secret = ''; // Add App secret
+ $returnurl = ''; //Add share URL
  $permissions = 'publish_stream';
  $fb = new Facebook(array('appId'=>$appId, 'secret'=>$secret));
  
